@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Musik88 Documentation</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/smbpndk/musik88-docs',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/6ahrvjRVbX',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/smbpndk/musik88-docs/tree/main',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Musik88 Docs',
   },
 }
 
